@@ -1,4 +1,4 @@
-# Senior-Design
+# Senior-Design-Team-Chan
 
 **MongoDB with pymongo was primarily used for the scripts**
 
